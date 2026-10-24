@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.1.3",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.3/FlashVpn.apk",
+  "versionCode": 14,
+  "versionName": "1.1.4",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.4/FlashVpn.apk",
   "notes": "core က လက်မခံတဲ့ link တွေကို ကိုယ့်ဘာသာ parser နဲ့ ဖြည်ပြီး ချိတ်မယ် (vless/trojan/ss/hy2/wireguard) · ချိတ်မရရင် core ရဲ့ အကြောင်းပြချက်အတိအကျ ပြမယ် · ကျန်တာ v1.1.2 အတိုင်း"
 }
