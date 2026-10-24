@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.0.4/FlashVpn.apk",
-  "notes": "Free node အသစ် ၁၁ ခု (egress စမ်းပြီး) · Share Card ပုံ · App ထဲက Update · prune/strike ပြင်ဆင်မှုများ"
+  "versionCode": 5,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.0.5/FlashVpn.apk",
+  "notes": "အာရှ node အသစ် ၁၈ ခု (HK/SG/JP/KR, egress စမ်းပြီး) · App ထဲက FAST.com Speed Test · node တွေကို ဖုန်းပေါ်မှာ တိုင်းပြီး အမြန်ဆုံး ရွေးလို့ရ"
 }
