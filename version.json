@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.1.22",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.22/FlashVpn.apk",
-  "notes": "TUN TCP အဆင့်ခွဲ — tun probe timeout ကို tcp/tls/http-timeout ခွဲပြီ + tun tcp သက်သက် စမ်း, SYN ပျက်လား TLS ပျက်လား ခွဲပေးမယ် · dial-protect counter မတည်ငြိမ်တာ ပြင် (counting သက်သက်)"
+  "versionCode": 33,
+  "versionName": "1.1.23",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.23/FlashVpn.apk",
+  "notes": "TUN TCP အစစ်ပြင် — /30 broadcast က NAT peer နဲ့ တိုက်နေလို့ SYN-ACK ကို sing-box က silent drop လုပ်တာ, /29 ပြောင်းပြီ · diagnostics ၃ ခု parallel (၆ စက္ကန့်ထဲ ရမယ်)"
 }
