@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.1.23",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.23/FlashVpn.apk",
-  "notes": "TUN TCP အစစ်ပြင် — /30 broadcast က NAT peer နဲ့ တိုက်နေလို့ SYN-ACK ကို sing-box က silent drop လုပ်တာ, /29 ပြောင်းပြီ · diagnostics ၃ ခု parallel (၆ စက္ကန့်ထဲ ရမယ်)"
+  "versionCode": 34,
+  "versionName": "1.1.24",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.24/FlashVpn.apk",
+  "notes": "Servers ရှင်း — Free Node + Pool ခလုတ် ဖျက်, အပေါ်ထောင့်မှာ Refresh icon တစ်ခုတည်း · Refresh = Public row သီးသန့် sync (မင်းဘက်က မထိ, ပျက်တာ ပျက်မယ်, အသစ်မထည့်ဘူး) · flood row တွေ တစ်ခါတည်း ရှင်း"
 }
