@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.1.18",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.18/FlashVpn.apk",
-  "notes": "DNS ကို tunnel ထဲကနေ သွားပြီ — server ကို IP အဖြစ် အရင် resolve လုပ်ပြီး DNS ကို proxy detour နဲ့ သုံးတယ် (sing-box physical DNS ပျက်တဲ့ ဖုန်းအတွက်) · probe အောင်ရင် CONNECTED ဖြစ်ရမယ်"
+  "versionCode": 29,
+  "versionName": "1.1.19",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.19/FlashVpn.apk",
+  "notes": "Dial diagnostic — dial socket protected ဖြစ်လား + edge က WS handshake လက်ခံလား တိုင်းမယ် · log မှာ dial protect + ws probe လိုင်း ၂ ခု ပါလာမယ်"
 }
