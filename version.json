@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.1.25",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.25/FlashVpn.apk",
-  "notes": "Pool ခလုတ် ပြန်ထည့် — နောက်ဖုန်းမှာ Public တင်ထားတာတွေ ရောက်မယ် · Free Node သေပြီးသား (flood မလာ) · Refresh prune သက်သက် ကျန်မယ် · Pool နှိပ်ရင် မရှိသေးတာပဲ ထပ်မယ် (duplicate မလာ, ဖျက်ထားတာ ပြန်မပေါ်)"
+  "versionCode": 36,
+  "versionName": "1.1.26",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.26/FlashVpn.apk",
+  "notes": "UI ရှင်း — နာမည်အရှည်တွေ အစဆုံးထိ ရွေ့မယ် (marquee) · header logo = app logo အစစ် (shield ဖျက်) · Log Detail ကို Settings ထဲက ထုတ် သီးသန့် Log tab · Settings စာရှည်တွေ + Log အသံဆူတာတွေ ရှင်း (NetMod ပုံစံ တိုတိုလေးပဲ)"
 }
