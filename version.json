@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.1.9",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.9/FlashVpn.apk",
-  "notes": "Mirror retry မြန်မြန် (250ms — သေတာက 1s retry မချိတ်ခင် ဖြစ်လို့) + အသစ်: သေပြီးပြန်ဖွင့်ရင် app ကိုယ်တိုင် logcat ကနေ panic trace ဖမ်းမယ် (ADB/PC မလို) · သတ်တဲ့ကောင် အတိအကျ ရှာဖို့ version"
+  "versionCode": 20,
+  "versionName": "1.1.10",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.10/FlashVpn.apk",
+  "notes": "Logcat capture ပြင် — အရင် 30 lines က အဟောင်းတွေ ဖြစ်နေလို့, အခု အသစ်ဆုံး crash ရဲ့ panic စာသား + goroutine stack ကိုပဲ ပြမယ် · သတ်တဲ့ function နာမည် ရဖို့ version"
 }
