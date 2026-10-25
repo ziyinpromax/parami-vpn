@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.4/FlashVpn.apk",
-  "notes": "Xray + sing-box ပေါင်းထားတဲ့ core အသစ် — Xray က လက်မခံတဲ့ no-TLS VLESS (port 80) key တွေကို sing-box နဲ့ ချိတ်မယ်, port ဘာမှ မပြောင်းဘူး · ကျန်တာ v1.1.3 အတိုင်း"
+  "versionCode": 15,
+  "versionName": "1.1.5",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.5/FlashVpn.apk",
+  "notes": "libbox start ဝပ်တဲ့ ပြဿနာ ပြင် — start 20s timeout + trace တွေ, monitor deadlock သံသယ ဖြုတ် · ကျန်တာ v1.1.4 အတိုင်း"
 }
