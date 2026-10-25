@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.1.16",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.16/FlashVpn.apk",
-  "notes": "DNS အစစ်ပြင် — sing-box DNS ကို UDP 1.1.1.1 ကနေ DoH (8.8.8.8, TCP/443) ပြောင်းပြီ · dns diag မှာ config-dns ok ဖြစ်ရမယ်, probe အောင်ရမယ်"
+  "versionCode": 27,
+  "versionName": "1.1.17",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.17/FlashVpn.apk",
+  "notes": "DNS ကို carrier DNS သုံးပြီ — ဖုန်းရဲ့ network DNS ကို auto ဖတ်ပြီး dns-main လုပ်တယ် (1.1.1.1/8.8.8.8 ပိတ်တဲ့ network အတွက်) · dns diag မှာ config-dns ok ဖြစ်ရမယ်, probe အောင်ရမယ်"
 }
