@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.1.19",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.19/FlashVpn.apk",
-  "notes": "Dial diagnostic — dial socket protected ဖြစ်လား + edge က WS handshake လက်ခံလား တိုင်းမယ် · log မှာ dial protect + ws probe လိုင်း ၂ ခု ပါလာမယ်"
+  "versionCode": 30,
+  "versionName": "1.1.20",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.20/FlashVpn.apk",
+  "notes": "Dial protection အစစ်ပြင် — route မှာ auto_detect_interface ထည့်ပြီ, dial တွေ TUN ထဲ loop မပတ်တော့ဘူး · အလုပ်လုပ်တဲ့ key ဆို ချိတ်ရမယ်"
 }
