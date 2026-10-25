@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.1.24",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.24/FlashVpn.apk",
-  "notes": "Servers ရှင်း — Free Node + Pool ခလုတ် ဖျက်, အပေါ်ထောင့်မှာ Refresh icon တစ်ခုတည်း · Refresh = Public row သီးသန့် sync (မင်းဘက်က မထိ, ပျက်တာ ပျက်မယ်, အသစ်မထည့်ဘူး) · flood row တွေ တစ်ခါတည်း ရှင်း"
+  "versionCode": 35,
+  "versionName": "1.1.25",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.25/FlashVpn.apk",
+  "notes": "Pool ခလုတ် ပြန်ထည့် — နောက်ဖုန်းမှာ Public တင်ထားတာတွေ ရောက်မယ် · Free Node သေပြီးသား (flood မလာ) · Refresh prune သက်သက် ကျန်မယ် · Pool နှိပ်ရင် မရှိသေးတာပဲ ထပ်မယ် (duplicate မလာ, ဖျက်ထားတာ ပြန်မပေါ်)"
 }
