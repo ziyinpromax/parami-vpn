@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.1.12",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.12/FlashVpn.apk",
-  "notes": "ဒုတိယ သတ်တဲ့ကောင် ပြင် — dummy0 interface ရဲ့ IPv6 address (zone + '/' မပါ) ကြောင့် Go panic ဖြစ်တာ · dummy0 ချန် + zone ဖြုတ် + '/' ပါတဲ့ address ပဲ ပေးမယ် · နှစ်ကောင်လုံး ရှင်းပြီ, ချိတ်ရမယ်"
+  "versionCode": 23,
+  "versionName": "1.1.13",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.13/FlashVpn.apk",
+  "notes": "တတိယ crash ကို နာမည်တပ်ဖို့ — capture ကို ပြင်, သတ်တဲ့ function ကို ဘယ်တော့မှ မလွတ်စေနဲ့ · ဒီတစ်ခါ paste ထဲမှာ panicker နာမည်ပါလာမယ်"
 }
