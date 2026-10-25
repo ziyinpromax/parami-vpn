@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.1.13",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.13/FlashVpn.apk",
-  "notes": "တတိယ crash ကို နာမည်တပ်ဖို့ — capture ကို ပြင်, သတ်တဲ့ function ကို ဘယ်တော့မှ မလွတ်စေနဲ့ · ဒီတစ်ခါ paste ထဲမှာ panicker နာမည်ပါလာမယ်"
+  "versionCode": 24,
+  "versionName": "1.1.14",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.14/FlashVpn.apk",
+  "notes": "တတိယ သတ်တဲ့ကောင် အစစ်ပြင် — TUN ပထမဆုံး packet ရဲ့ app ပိုင်ရှင် မေးတဲ့အခါ null ပြန်မိလို့ Go panic ဖြစ်တာ · အခု unknown owner အမြဲပြန်မယ်, null ဘယ်တော့မှ မပြန်ဘူး · ချိတ်ရမယ်"
 }
