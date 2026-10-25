@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.1.10",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.10/FlashVpn.apk",
-  "notes": "Logcat capture ပြင် — အရင် 30 lines က အဟောင်းတွေ ဖြစ်နေလို့, အခု အသစ်ဆုံး crash ရဲ့ panic စာသား + goroutine stack ကိုပဲ ပြမယ် · သတ်တဲ့ function နာမည် ရဖို့ version"
+  "versionCode": 21,
+  "versionName": "1.1.11",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.11/FlashVpn.apk",
+  "notes": "သတ်တဲ့ကောင် တွေ့ပြီ — log ကြည့်ဖို့ ထည့်ထားတဲ့ Go mirror ကိုယ်တိုင်က app ကို crash စေတာ · mirror ကို လုံးဝ ဖြုတ်လိုက်ပြီ, အဲ့ဒါဆို ချိတ်ရမယ်"
 }
