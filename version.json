@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.1.20",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.20/FlashVpn.apk",
-  "notes": "Dial protection အစစ်ပြင် — route မှာ auto_detect_interface ထည့်ပြီ, dial တွေ TUN ထဲ loop မပတ်တော့ဘူး · အလုပ်လုပ်တဲ့ key ဆို ချိတ်ရမယ်"
+  "versionCode": 31,
+  "versionName": "1.1.21",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.21/FlashVpn.apk",
+  "notes": "TUN လမ်း တိုင်းတာ — CONNECTED ဖြစ်ပြီးမှ tun probe + tun dns လိုင်းအသစ် ၂ ခု, device traffic TUN ထဲကနေ စီးလား DNS ရလား ခွဲပေးမယ် · dial fix (auto_detect_interface) ကျန်တယ်"
 }
