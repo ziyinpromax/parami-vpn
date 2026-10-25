@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.5",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.5/FlashVpn.apk",
-  "notes": "libbox start ဝပ်တဲ့ ပြဿနာ ပြင် — start 20s timeout + trace တွေ, monitor deadlock သံသယ ဖြုတ် · ကျန်တာ v1.1.4 အတိုင်း"
+  "versionCode": 16,
+  "versionName": "1.1.6",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.6/FlashVpn.apk",
+  "notes": "sing-box tun prefix ပြင် (10.8.0.2/32 → /30) — system stack က address တစ်ခု ပိုလိုလို့ start မရတာ · ကျန်တာ v1.1.5 အတိုင်း"
 }
