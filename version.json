@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.1.7",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.7/FlashVpn.apk",
-  "notes": "app တိတ်တိတ်သေတာ မြင်ရအောင် — နောက်ဖွင့်ရင် သေတဲ့နေရာ ([DEATH] line) ပြမယ် + Java crash log ဖမ်းမယ် + Go log (GOBOX) ကို DiagLog ထဲ သွင်းမယ် · ဒီ version က အကြောင်းရင်း ရှာဖို့ပါ, ချိတ်တာကိုယ်တိုင် မပြင်သေးဘူး"
+  "versionCode": 18,
+  "versionName": "1.1.8",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.8/FlashVpn.apk",
+  "notes": "Go log mirror ပြင် (box မစခင် subscribe လုပ်မိလို့ ပျက်တာ — retry နဲ့ ပြင်) + monitor က ကိုယ်ပိုင် tunnel (tun0) ကို default အဖြစ် ပေးမိတာ ပြင် (physical interface ပဲ ပေးမယ်) · သေတဲ့နေရာ ရှာဖို့ version"
 }
