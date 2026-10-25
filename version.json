@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.1.14",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.14/FlashVpn.apk",
-  "notes": "တတိယ သတ်တဲ့ကောင် အစစ်ပြင် — TUN ပထမဆုံး packet ရဲ့ app ပိုင်ရှင် မေးတဲ့အခါ null ပြန်မိလို့ Go panic ဖြစ်တာ · အခု unknown owner အမြဲပြန်မယ်, null ဘယ်တော့မှ မပြန်ဘူး · ချိတ်ရမယ်"
+  "versionCode": 25,
+  "versionName": "1.1.15",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.15/FlashVpn.apk",
+  "notes": "probe ဘယ် stage မှာ timeout လဲ တည့်တည့်ပြ — stage logging + DNS diagnostic (config DNS vs system DNS) · ဒီတစ်ခါ log မှာ အဖြေပါလာမယ်"
 }
