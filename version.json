@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.1.15",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.15/FlashVpn.apk",
-  "notes": "probe ဘယ် stage မှာ timeout လဲ တည့်တည့်ပြ — stage logging + DNS diagnostic (config DNS vs system DNS) · ဒီတစ်ခါ log မှာ အဖြေပါလာမယ်"
+  "versionCode": 26,
+  "versionName": "1.1.16",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.16/FlashVpn.apk",
+  "notes": "DNS အစစ်ပြင် — sing-box DNS ကို UDP 1.1.1.1 ကနေ DoH (8.8.8.8, TCP/443) ပြောင်းပြီ · dns diag မှာ config-dns ok ဖြစ်ရမယ်, probe အောင်ရမယ်"
 }
