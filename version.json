@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.6/FlashVpn.apk",
-  "notes": "sing-box tun prefix ပြင် (10.8.0.2/32 → /30) — system stack က address တစ်ခု ပိုလိုလို့ start မရတာ · ကျန်တာ v1.1.5 အတိုင်း"
+  "versionCode": 17,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.7/FlashVpn.apk",
+  "notes": "app တိတ်တိတ်သေတာ မြင်ရအောင် — နောက်ဖွင့်ရင် သေတဲ့နေရာ ([DEATH] line) ပြမယ် + Java crash log ဖမ်းမယ် + Go log (GOBOX) ကို DiagLog ထဲ သွင်းမယ် · ဒီ version က အကြောင်းရင်း ရှာဖို့ပါ, ချိတ်တာကိုယ်တိုင် မပြင်သေးဘူး"
 }
