@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.1.27",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.27/FlashVpn.apk",
-  "notes": "List ခွဲပြီ (SVPN ပုံစံ — List ရွေးရင် အဲ့ List ရဲ့ server တွေပဲ ပြမယ်) · တင်ရင် List Name သတ်မှတ်လို့ရပြီ · Pool auto ရောက်မယ် (Servers ဖွင့်တာနဲ့ sync) · Pool က ဖျက်ရင် တခြားဖုန်းမှာပါ ပျက်မယ် · Pool ခလုတ် ဘာလုပ်လိုက်လဲ ပြောပြမယ်"
+  "versionCode": 38,
+  "versionName": "1.1.28",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.28/FlashVpn.apk",
+  "notes": "SVPN ပုံစံ အတိုင်း — Home မှာ List card + Server card (▼ နှိပ်ရင် Choose a list / Choose a server sheet + Search + CLOSE) · Servers က List section တွေ (chips ဖြုတ်) · Settings ကို section ခေါင်းစဉ်တွေ တပ် (သေသပ်အောင်) · List Name တင် + Pool auto sync + ဖျက်ရင် တခြားဘက်ပါ ပျက် အတိုင်း"
 }
