@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.1.30",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.30/FlashVpn.apk",
-  "notes": "Add စာမျက်နှာသီးသန့် — Add နှိပ်ရင် password တစ်ခါပဲတောင်း၊ အထဲမှာ ထည့်တာ/ဖျက်တာ/Public တင်တာ ထပ်မတောင်း၊ Back နဲ့ထွက်ရင် session ပျောက် · Home က delete တွေ Add စာမျက်နှာထဲ ပြောင်း"
+  "versionCode": 41,
+  "versionName": "1.1.31",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.31/FlashVpn.apk",
+  "notes": "List ရွေးတာ sheet picker ဖြစ် · ⋯ menu ဖျက်, ✏️ Edit နဲ့ server/list နာမည် ပြောင်း · နာမည်ရှည် ဖြည်းဖြည်းချင်း ရွေ့ · ✗ ×N နဲ့ type pill ဖျက်, public ဆို 🌍 · Settings ထဲ WIFI Share (hotspot + gateway proxy, client က proxy ရိုက်ထည့်) · Settings သန့်ရှင်းတာ ဘာမှမဖျက်"
 }
