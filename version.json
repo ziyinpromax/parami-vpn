@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.1.29",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.29/FlashVpn.apk",
-  "notes": "Servers tab ဖြုတ် — Home မှာပဲ List + Server ရွေး + Test/Pool/Refresh (Refresh အရင်) · Server update ရှိရင် box နဲ့ ဘာပြောင်းလဲပြပြီး Cancel/Update မေးမယ် (Cancel ရင် Refresh မှာ အမှတ်နဲ့ ပြန်ပေါ်) · List ပုံထည့်လို့ရ (ပျက်နေတဲ့ logo ပြင်) · Add မှာ ရှိပြီးသား List ရွေး / အသစ် ထည့် · List ကို password နဲ့ ဖျက်လို့ရ"
+  "versionCode": 40,
+  "versionName": "1.1.30",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.30/FlashVpn.apk",
+  "notes": "Add စာမျက်နှာသီးသန့် — Add နှိပ်ရင် password တစ်ခါပဲတောင်း၊ အထဲမှာ ထည့်တာ/ဖျက်တာ/Public တင်တာ ထပ်မတောင်း၊ Back နဲ့ထွက်ရင် session ပျောက် · Home က delete တွေ Add စာမျက်နှာထဲ ပြောင်း"
 }
