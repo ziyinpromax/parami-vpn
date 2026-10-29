@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "1.1.40",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.40/FlashVpn.apk",
-  "notes": "SSH payload [ua] expands to NetMod's User-Agent (front rejected literal [ua] with 400)"
+  "versionCode": 51,
+  "versionName": "1.1.41",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.41/FlashVpn.apk",
+  "notes": "SSH proxy handshake reads past a non-200 first response to find a later 200; log records every response seen"
 }
