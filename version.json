@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "1.1.43",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.43/FlashVpn.apk",
-  "notes": "SSH proxy handshake is now interactive: payload goes one request block at a time, reading a response between blocks"
+  "versionCode": 54,
+  "versionName": "1.1.44",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.44/FlashVpn.apk",
+  "notes": "SSH proxy fallback: no 200 but connection open → proceed to SSH anyway, banner decides; closed connection still fails as before"
 }
