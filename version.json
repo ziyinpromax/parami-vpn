@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "1.1.42",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.42/FlashVpn.apk",
-  "notes": "SSH lock keys (fvkey://) import as SSH profiles, publish to the Public pool, and sync to other phones as SSH rows; pool server checks shape only, never decrypts"
+  "versionCode": 53,
+  "versionName": "1.1.43",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.43/FlashVpn.apk",
+  "notes": "SSH proxy handshake is now interactive: payload goes one request block at a time, reading a response between blocks"
 }
