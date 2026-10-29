@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.1.35",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.35/FlashVpn.apk",
+  "versionCode": 46,
+  "versionName": "1.1.36",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.36/FlashVpn.apk",
   "notes": "Device Id users (no login): per-device block (full-app lockout with Admin reason, cached offline) + per-device pool server assignment (extra section at the top of the server chooser) + anonymous hourly presence ping (display names only, never keys)"
 }
