@@ -2,5 +2,5 @@
   "versionCode": 47,
   "versionName": "1.1.37",
   "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.37/FlashVpn.apk",
-  "notes": "Device Id users (no login): per-device block (full-app lockout with Admin reason, cached offline) + per-device pool server assignment (extra section at the top of the server chooser) + anonymous hourly presence ping (display names only, never keys)"
+  "notes": "Account စနစ်: Main ဝင်ဖို့ Admin ထုတ်ပေးတဲ့ password လိုပြီ (လူတစ်ယောက်ကို တစ်ခု၊ ပထမတစ်ခါပဲ ရိုက်ရမယ်); Admin ACCOUNTS tab က password ထုတ်မယ်၊ device အရေအတွက် + id တွေပြမယ်၊ account block လုပ်မယ်။ Device Id: per-device block + server ထပ်ပေး + ping (နာမည်ပဲ၊ key မပါ)"
 }
