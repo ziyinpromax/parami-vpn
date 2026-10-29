@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "1.1.38",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.38/FlashVpn.apk",
-  "notes": "Add password enforced (empty Add password rejected, any Add exit clears the session, re-entry always re-prompts) + pasted SSH payloads transmit byte-exact (literal escape text becomes real line breaks)"
+  "versionCode": 49,
+  "versionName": "1.1.39",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.39/FlashVpn.apk",
+  "notes": "Server-verified Add entry (only the correct Add password opens Add; wrong stays out; no offline entry; Add password separate from App password)"
 }
