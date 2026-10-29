@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.1.34",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.34/FlashVpn.apk",
-  "notes": "Public Auto Sync — dialog/Update ဖြုတ်ပြီ: Home ဝင်တိုင်း pool auto sync (ထည့်/ဖျက်/နာမည်/list အကုန် auto), Add စာမျက်နှာထဲက public ပြင်တာလည်း pool ကို auto ရောက်, pool ကပဲ public ရဲ့ အမှန်"
+  "versionCode": 45,
+  "versionName": "1.1.35",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.35/FlashVpn.apk",
+  "notes": "Device Id users (no login): per-device block (full-app lockout with Admin reason, cached offline) + per-device pool server assignment (extra section at the top of the server chooser) + anonymous hourly presence ping (display names only, never keys)"
 }
