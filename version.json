@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.1.37",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.37/FlashVpn.apk",
-  "notes": "Account စနစ်: Main ဝင်ဖို့ Admin ထုတ်ပေးတဲ့ password လိုပြီ (လူတစ်ယောက်ကို တစ်ခု၊ ပထမတစ်ခါပဲ ရိုက်ရမယ်); Admin ACCOUNTS tab က password ထုတ်မယ်၊ device အရေအတွက် + id တွေပြမယ်၊ account block လုပ်မယ်။ Device Id: per-device block + server ထပ်ပေး + ping (နာမည်ပဲ၊ key မပါ)"
+  "versionCode": 48,
+  "versionName": "1.1.38",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.38/FlashVpn.apk",
+  "notes": "Add password enforced (empty Add password rejected, any Add exit clears the session, re-entry always re-prompts) + pasted SSH payloads transmit byte-exact (literal escape text becomes real line breaks)"
 }
