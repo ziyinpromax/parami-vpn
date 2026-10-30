@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "1.1.52",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.52/FlashVpn.apk",
-  "notes": "DIAGNOSTIC (SSH probe): channel-open cause logged + one socks CONNECT retry; nothing else changes"
+  "versionCode": 63,
+  "versionName": "1.1.53",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.53/FlashVpn.apk",
+  "notes": "DIAGNOSTIC: SSH session identity logging (connect/probe/guard/first-ok); nothing else changes"
 }
