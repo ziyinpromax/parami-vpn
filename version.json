@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "1.1.50",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.50/FlashVpn.apk",
-  "notes": "DIAGNOSTIC REDESIGN (SSH probe): SocksServer-direct probe replaces factory-direct; nothing else changes"
+  "versionCode": 61,
+  "versionName": "1.1.51",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.51/FlashVpn.apk",
+  "notes": "DIAGNOSTIC (SSH probe): socks rep window 20s (above JSch 15s) + rep-wait ms; nothing else changes"
 }
