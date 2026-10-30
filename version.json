@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "1.1.51",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.51/FlashVpn.apk",
-  "notes": "DIAGNOSTIC (SSH probe): socks rep window 20s (above JSch 15s) + rep-wait ms; nothing else changes"
+  "versionCode": 62,
+  "versionName": "1.1.52",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.52/FlashVpn.apk",
+  "notes": "DIAGNOSTIC (SSH probe): channel-open cause logged + one socks CONNECT retry; nothing else changes"
 }
