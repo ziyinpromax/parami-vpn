@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "1.1.46",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.46/FlashVpn.apk",
-  "notes": "SSH-path DNS over TCP: TUN DNS queries resolve via TCP through SSH (UDP DNS died on the TCP-only SOCKS path); non-SSH unchanged"
+  "versionCode": 57,
+  "versionName": "1.1.47",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.47/FlashVpn.apk",
+  "notes": "SSH-path dials IPs (routeOnly sniffing + probe by resolved IP; server never resolves); non-SSH unchanged"
 }
