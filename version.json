@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "1.1.44",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.44/FlashVpn.apk",
-  "notes": "SSH proxy fallback: no 200 but connection open → proceed to SSH anyway, banner decides; closed connection still fails as before"
+  "versionCode": 55,
+  "versionName": "1.1.45",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.45/FlashVpn.apk",
+  "notes": "Connect-first: probe failure no longer vetoes CONNECTED — tunnel up → connected + visible probe warning; actual use judges"
 }
