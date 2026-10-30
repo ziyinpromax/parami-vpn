@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "1.1.45",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.45/FlashVpn.apk",
-  "notes": "Connect-first: probe failure no longer vetoes CONNECTED — tunnel up → connected + visible probe warning; actual use judges"
+  "versionCode": 56,
+  "versionName": "1.1.46",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.46/FlashVpn.apk",
+  "notes": "SSH-path DNS over TCP: TUN DNS queries resolve via TCP through SSH (UDP DNS died on the TCP-only SOCKS path); non-SSH unchanged"
 }
