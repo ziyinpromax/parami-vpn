@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "1.1.48",
-  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.48/FlashVpn.apk",
-  "notes": "DIAGNOSTIC ONLY (SSH probe): Xray-bypass direct TLS probe logged beside normal probe; nothing else changes"
+  "versionCode": 59,
+  "versionName": "1.1.49",
+  "apkUrl": "https://github.com/ziyinpromax/parami-vpn/releases/download/v1.1.49/FlashVpn.apk",
+  "notes": "DIAGNOSTIC FIX (SSH probe): direct probe runs FIRST + session-state line; nothing else changes"
 }
